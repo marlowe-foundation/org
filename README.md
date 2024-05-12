@@ -4,5 +4,5 @@ This repository will contain all the data and files relevant to the Marlowe Foun
 
 ## Marlowe Special Interest Group
 
-The Marlowe SIG exists to act as a focus for developers, users and other stakeholders in the Marlowe language and its ecosystem.
+The [Marlowe SIG](https://github.com/marlowe-foundation/org/blob/main/sig-charter.md) exists to act as a focus for developers, users and other stakeholders in the Marlowe language and its ecosystem.
 
