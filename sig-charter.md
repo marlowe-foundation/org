@@ -3,11 +3,11 @@
 The Marlowe Special Interest Group charter establishes the scope, intellectual property terms used to develop the materials identified and the details related to requirements and operational processes relevant to the Special Interest Group’s operation.
 
 ## Overview
-Name: Marlowe Special Interest Group
+_Name_: Marlowe Special Interest Group
 
-Meeting details: Initially in IOG Technical Community Discord, fortnightly 13:00 UTC Tuesdays, starting 21 May 2024; this will migrate to the MBO in due course.
+_Meeting details_: Initially in IOG Technical Community Discord, fortnightly 13:00 UTC Tuesdays, starting 21 May 2024; this will migrate to the MBO in due course.
 
-Aim: To act as a focus for developers, users and other stakeholders in the Marlowe language and its ecosystem. 
+_Aim_: To act as a focus for developers, users and other stakeholders in the Marlowe language and its ecosystem. 
 
 ## Operations and duties
 
