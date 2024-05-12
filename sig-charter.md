@@ -1,6 +1,6 @@
 # Marlowe Special Interest Group Charter
 
-The Marlowe Special Interest Group charter establishes the scope, intellectual property terms used to develop the materials identified and the details related to requirements and operational processes relevant to the Special Interest Group’s operation.
+The Marlowe Special Interest Group charter establishes the scope, intellectual property terms used to develop the materials identified and the details related to requirements and operational processes relevant to the SIG’s operation.
 
 ## Overview
 _Name_: Marlowe Special Interest Group
